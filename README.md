@@ -4,7 +4,7 @@ How to save this project to Linux:
 
 2- cd Project-XSS-Linux/
 
-Here is the method to install the tool c_breakers:
+Here is the method to install the required requirements:
 
 1- Download Chrome from the official website:
 
