@@ -6,7 +6,7 @@ How to save this project to Linux:
 
 Here is the method to install the required requirements:
 
-1- Download Chrome from the official website:
+1- Download Chrome from the official website: https://www.google.com/chrome/
 
 2- Here is the Linux command after download:
 
