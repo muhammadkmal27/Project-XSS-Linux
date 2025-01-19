@@ -1,3 +1,9 @@
+How to save this project to Linux:
+
+1- git clone https://github.com/muhammadkmal27/Project-XSS-Linux.git
+
+2- cd Project-XSS-Linux/
+
 Here is the method to install the tool c_breakers:
 
 1- Download Chrome from the official website:
