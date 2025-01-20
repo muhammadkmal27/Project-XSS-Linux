@@ -37,3 +37,30 @@ How to use after installing all the requirements:
 1- source /home/kali/akmal/bin/activate
 
 2- python c_breakers.py
+
+
+Note:
+
+Our tool uses "URL PARAMETERS," not regular URLs. If you don’t know what URL parameters are, you can search on Google to learn more.
+
+Make sure you use the three tools I have listed to obtain URL parameters before using our tool:
+
+1- subfinder
+   
+How to download: sudo apt install subfinder
+
+How to use: subfinder -d example.com
+
+Save subdomains: nano sub.txt (press Ctrl + O to save)
+
+2- httpx-toolkit
+
+How to download: sudo apt install httpx-toolkit
+
+How to use: httpx-toolkit -l sub.txt
+
+3- paramspider
+
+How to download: sudo apt install paramspider
+
+How to use: paramspider -d https://www.example.com/page?key1=value1&key2=value2 (choose one of the URL parameters)
