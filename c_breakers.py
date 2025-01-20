@@ -565,3 +565,5 @@ try:
 except KeyboardInterrupt:
     print_exit_menu()
     sys.exit(0)
+
+    driver
